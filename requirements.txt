@@ -1,3 +1,5 @@
 pyautogen
 flask
-openai
+docker
+openai>=1.0.0
+
